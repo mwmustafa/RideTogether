@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "174458520015",
+    "project_id": "ridetogether-187418"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174458520015:android:2d3eb19d4eb0bfe5",
+        "android_client_info": {
+          "package_name": "com.example.waleed.ridetogether"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174458520015-r6jf9eukjmb6f3tbokvk5a9lec2e3i8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.waleed.ridetogether",
+            "certificate_hash": "c3e73353a224cd906a673e624a3356ad50df9bad"
+          }
+        },
+        {
+          "client_id": "174458520015-k11c82fkjek9g62j3pqjo4mh0tsbib2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUuVTH4DeMTfSEWnZAW0_qJUY-540quBw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

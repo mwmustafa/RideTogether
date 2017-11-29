@@ -1,0 +1,4 @@
+#Wed Nov 29 10:46:24 PKT 2017
+base.0=C\:\\Users\\wMustafa\\AndroidStudioProjects\\RideTogether-20171129T051621Z-001\\RideTogether\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
